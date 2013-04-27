@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>猜数字</h1>
+
+<p>请输入数字。请输入数字 [1，100]</p>
+
+<input id="demo" type="text">
+<button type="button" onclick="myFunction()">查看</button>
+<p>Ready... <br/></p>
+<p id="txt"><br/></p>
+
+
+<script>
+  var dd = Math.round(Math.random()*100);
+	var txt = document.getElementById("txt");
+	var times = 0;
+	var tmp = "";
+function myFunction()
+{
+var x=document.getElementById("demo").value;
+	//alert(dd);
+  if(x==""||isNaN(x)||x>1000||x<1)
+	{
+	alert("又调皮了啊！");
+	}	else if(x > dd){
+	tmp +=  x + " is too big"+"<br/>";
+	times +=1;
+	txt.innerHTML=tmp;
+  }else if(x < dd){
+	tmp += x + " is too small"+"<br/>";
+		times +=1;
+	txt.innerHTML=tmp;
+  }else if(x == dd){
+	tmp += "<br/>Well Done !<br/>"+"You have tried "+times+" times.<br/>";
+	txt.innerHTML=tmp;
+  }
+}
+</script>
+
+
+</body>
+</html>
