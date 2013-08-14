@@ -47,6 +47,14 @@ margin: 130px auto;
 width : 800px;
 font-family: "Microsoft YaHei";
 }
+.inner p a{
+text-decoration:none;
+color: black;
+}
+.inner p a:hover{
+text-decoration:none;
+color: #ac68f2;
+}
 .footer{
 bottom: 0px;
 position: fixed;
