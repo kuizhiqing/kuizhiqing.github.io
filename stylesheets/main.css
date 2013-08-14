@@ -39,11 +39,13 @@ height : 130px;
 background-color : #ac68f2;
 text-indent: 50px;
 line-height: 100px;
+font-family: Cursive,"隶书";
 }
 .inner{
 padding-top: 10px;
 margin: 130px auto;
 width : 800px;
+font-family: "微软雅黑";
 }
 .footer{
 bottom: 0px;
@@ -53,6 +55,7 @@ width : 900px;
 background-color : #ac68f2;
 text-indent: 30px;
 line-height: 100px;
+font-family: Helvetica;
 }
 .link{
 position: relative;
