@@ -81,5 +81,38 @@ color: black;
 }
 .mail{
 text-align: right;
-padding-right: 50px;
+padding-right: 30px;
+}
+h1{
+width: 800px;
+float: left;
+}
+.switchpanel{
+width: 100px;
+float: right;
+padding-top: 20px;
+}
+.switchbutton{
+width: 14px;
+height: 14px;
+line-height: 14px;
+font-size: 10px;
+background: #cccaca;
+border: 1px solid #ffffff;
+color: #666666;
+text-align: center;
+margin-right: 8px;
+font-family: Verdana;
+float: left;
+cursor: pointer;
+}
+.focus{
+background: #CD15F0;
+border: 1px solid #A627EE;
+color: #000000;
+cursor: default;
+}
+.switchbutton:hover{
+background: #CD15F0;
+color: #000000;
 }
