@@ -1,134 +1,24 @@
-#content{
-margin : 0 auto;
-}
-
-.head_bar{
-margin : 0 auto;
-width : 900px;
-position:fixed;
-top : 0;
-z-index:40;
-}
-
-.main_content{
-margin : 0 auto;
-width : 900px;
-height : 900px;
-}
-
-.undisplay{
-display:none;
-}
-div.mode {
-position: absolute;
-z-index: 99;
-top : 0;
-right: 0;
-width: 220px;
-font-family: sans-serif;
-font-weight:bold;
-font-size: 16px;
-}
-.header{
-top: 0px;
-left: 0;
-position: fixed;
-width:100%;
-height : 80px;
-background: url(../images/hr.png) bottom center no-repeat;;
-font-family: Cursive,"微软雅黑";
-z-index: 10;
-}
-.header-f{
-border-bottom: 1px solid #ddd;
-box-shadow: 0 0 4px #eee;
-background: rgba(255,255,255,.9);
-}
-.description{
-margin: 10px 0 0 0;
-padding: 1px 0px 0px 30px;
-background: white;
-border: 1px solid #e7e7e7;
-border-bottom: 1px solid #ddd;
--webkit-box-shadow: 0 1px 3px 0 #eee;
--webkit-border-radius: 3px;
-}
-.name{
-padding-left: 22%;
-width: 600px;
-float: left;
-}
-.inner{
-padding-top: 10px;
-margin: 130px auto;
-width : 800px;
-font-family: "Microsoft YaHei";
-}
-.inner p a{
-text-decoration:none;
-color: black;
-}
-.inner p a:hover{
-text-decoration:none;
-color: #ac68f2;
-}
-.footer{
-bottom: 0px;
-position: fixed;
-height : 80px;
-width : 900px;
-background-color : #ac68f2;
-text-indent: 30px;
-line-height: 100px;
-font-family: Helvetica;
-}
-.link{
-position: relative;
-float: left;
-}
-.link a,
-.mail a{
-text-decoration: none;
-color: white;
-}
+#content{margin : 0 auto;}
+.main_content{margin : 0 auto;width : 900px;height : 900px;}
+.undisplay{display:none;}
+.header{top: 0px;left: 0;position: fixed;width:100%;height : 80px;background: url(../images/hr.png) bottom center no-repeat;;font-family: Cursive,"微软雅黑";z-index:10;}
+.header-f{border-bottom: 1px solid #ddd;box-shadow: 0 0 4px #eee;background: rgba(255,255,255,.9);}
+.head_inner{margin: 0 auto;width: 740px;}
+.description{margin: 10px 0 0 0;padding: 1px 0px 0px 30px;background: white;border: 1px solid #e7e7e7;border-bottom: 1px solid #ddd;-webkit-box-shadow: 0 1px 3px 0 #eee;-webkit-border-radius: 3px;}
+.name{width: 600px;float: left;}
+.inner{padding-top: 10px;margin: 100px auto;width : 800px;font-family: "Microsoft YaHei";}
+.inner p a{text-decoration:none;color: black;}
+.inner p a:hover{text-decoration:none;color: #ac68f2;}
+.foot-animate{position: fixed;height: 50px;line-height: 50px;width: 100%;bottom: 0px;left: 0;background: rgba(255,255,255,.9);}
+.foot-animate:hover{display: block;border-top: 1px solid #ddd;box-shadow: 0 0 4px #eee;}
+.foot-inner{margin: 0 auto;width:700px;}
+.link{float: left;}
+.mail{text-align: right;}
+.link a,.mail a{text-decoration: none;font-family: Helvetica;color:black;}
 .link a:hover,
-.mail a:hover{
-text-decoration: none;
-color: black;
-}
-.mail{
-text-align: right;
-padding-right: 30px;
-}
-00h1{
-width: 800px;
-float: left;
-}
-.switchpanel{
-float: left;
-padding-top: 30px;
-}
-.switchbutton{
-width: 14px;
-height: 14px;
-line-height: 14px;
-font-size: 10px;
-background: #f2f2f2;
-border: 1px solid #ffffff;
-color: #666666;
-text-align: center;
-margin-right: 8px;
-font-family: Verdana;
-float: left;
-cursor: pointer;
-}
-.focus{
-background: #fdfdff;
-border: 1px solid #fafafa;
-color: #000000;
-cursor: default;
-}
-.switchbutton:hover{
-background: #f0f0f2;
-color: #000000;
-}
+.mail a:hover{color: black;font-weight: bold;}
+.switchpanel{float: left;padding-top: 30px;}
+.switchbutton{width: 20px;height: 16px;line-height: 16px;font-size: 10px;background: #fdfdfd;border: 1px solid #ffffff;color: #666666;text-align: center;margin-right: 12px;font-family: Verdana;float: left;cursor: pointer;}
+.focus{background: #f2f2f2;color: #000000;cursor: default;}
+.switchbutton:hover{background: #f0f0f0;color: #000000;}
+.focus:hover{background: #fdfdfd;}
