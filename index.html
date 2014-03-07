@@ -160,18 +160,15 @@ ScilabCloud云计算平台，中法工程师学院，<a href="http://www.buaa.ed
 </div>
 </section>
 </div>
-
 </div>
 <footer class="foot-animate undisplay">
 <div class="foot-inner">
 <div class="link"><a href="https://github.com/kuizhiqing" target="_blank">kuizhiqing's github</a></div>
 <div class="mail"><a href="mailto:kuizhiqing@msn.com">kuizhiqing@msn.com</a></div>
 </div>
-</ul>
 </footer>
 </section>
 <script type="text/javascript">
-
 var Browser_Agent=navigator.userAgent;
 var language;
 if(Browser_Agent.indexOf("MSIE")!=-1){
@@ -197,7 +194,7 @@ if(language.search("en")>=0){
 	$('#switch_en').addClass('focus');
 }
 $(window).scroll(function () {
-  if($(document).scrollTop()>60){
+  if($(document).scrollTop()>40){
 	$('.header').addClass('header-f');
 	$('.foot-animate').removeClass('undisplay');
   }else{
@@ -205,16 +202,6 @@ $(window).scroll(function () {
 	$('.foot-animate').addClass('undisplay');
   }
 });
-/*
-$(window).scroll(function () {
-  var r = 172+Math.round(20*$(document).scrollTop()/$(document).height());
-  var g = 104+Math.round(20*$(document).scrollTop()/$(document).height());
-  var b = 242-Math.round(20*$(document).scrollTop()/$(document).height());
-  var col = 'rgb('+r+','+g+','+b+')'
-  $('.header').css('background-color',col);
-  $('.footer').css('background-color',col);
-});
-*/
 $('.switchbutton').click(function(){
 	$(this).addClass('focus').siblings().removeClass('focus');
 	if($(this).attr('rel')=='en'){
