@@ -16,7 +16,7 @@
 .mail{text-align: right;}
 .link a,.mail a{text-decoration: none;font-family: Helvetica;color:black;}
 .link a:hover,
-.mail a:hover{color: black;font-weight: bold;}
+.mail a:hover{color: #a0a0a0;}
 .switchpanel{float: left;padding-top: 30px;}
 .switchbutton{width: 20px;height: 16px;line-height: 16px;font-size: 10px;background: #fdfdfd;border: 1px solid #ffffff;color: #666666;text-align: center;margin-right: 12px;font-family: Verdana;float: left;cursor: pointer;}
 .focus{background: #f2f2f2;color: #000000;cursor: default;}
