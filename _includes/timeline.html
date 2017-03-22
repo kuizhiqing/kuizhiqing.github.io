@@ -1,0 +1,49 @@
+<section id="timeline" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ site.data[page.lang].timeline.title }}</h2>
+                <h3 class="section-subheading text-muted">{{ site.data[page.lang].timeline.desc }}</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="timeline">
+                    {% for it in site.data[page.lang].timeline.items %}
+                    <li class="{% cycle '', 'timeline-inverted' %}">
+                        <a href="{{ it.href }}" target="_blank">
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="/assets/img/{{ it.img }}" alt="">
+                        </div>
+                        </a>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>{{ it.period }}</h4> 
+                                {% for i in it.title %}
+                                <h4>{{ i }}</h4>
+                                {% endfor %}
+                                {% for i in it.desc %}
+                                <h5>{{ i }}</h5> 
+                                {% endfor %}
+                            </div>
+                            <div class="timeline-body">
+                                {% for i in it.body %}
+                                <p class="text-muted">{{ i }}</p>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </li>
+                    {% endfor %}
+                    <li class="timeline-inverted">
+                        <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="/assets/img/{{ site.data[page.lang].timeline.img }}" alt="">
+                            <!--h4>Be Part <br>Of Our
+                                <br>Story!</h4-->
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</section>

@@ -1,0 +1,57 @@
+title: 主要经历
+desc: 谁还没点故事呢
+img: kui.jpg
+items:
+    - img: ecm.png
+      href: https://www.centrale-marseille.fr/
+      period: 2015.01—2018.02
+      title: 应用数学 | 博士 
+      desc: 马赛中央理工大学
+      body: 
+          - 2014届CSC公派留学生
+          - 研究方向：Subdivision/小波分析/图像处理
+    - img: buaa.png
+      href: http://www.buaa.edu.cn/
+      period: 2008.09—2015.01
+      title:
+          - 计算机科学与技术 | 硕士
+          - 数学与应用数学 | 学士
+      desc: 北京航空航天大学 | 中法工程师学院
+      body:
+          - 4年本科+2.5年硕士(2012年保研)
+          - 硕士阶段担任《数学分析》助教，负责讲解习题课
+          - 硕士研究方向：DTN网络
+    - img: ecpkn.jpg
+      href: http://ecpkn.buaa.edu.cn/
+      period: 2008.09—2015.01
+      title: 法国工程师文凭 (CTI认证)
+      desc: 北京航空航天大学 | 中法工程师学院
+      body:
+          - 中法合作项目，同时获得法国认证学位
+          - 法国中央理工大学集团教授法语教学
+    - img: kuwo.jpg
+      href: http://kuwo.cn/
+      period: 2013.05—2015.01
+      title: 酷我音乐创新事业部 | 实习生
+      desc: 
+          - 酷我永乐票务合作项目技术负责人<br><small>负责系统设计及开发 Java Web</small>
+          - 酷我"音乐爱现场"众筹活动技术负责人<br><small>负责网站及后台开发 Java Web</small>
+          - '"雪碧音碰音"酷我百度腾讯合作项目技术负责人<br><small>负责后台开发及合作对接 Jave Web</small>'
+          - 参与酷我轩尼诗网络选秀合作项目<br><small>参与网站及后台开发 Jave Web</small>
+      body: 
+    - img: dzc.png
+      href: "#@"
+      period: 2011.07—2011.09
+      title: 软件开发实习生
+      desc: 上海顶竹通讯技术有限公司 
+      body:
+          - 负责网络软件测试组件开发
+          - Python
+    - img: siat.jpg
+      href: "#@"
+      period: 2010.07—2010.09
+      title: 软件开发实习生
+      desc: 中科院深圳先进技术研究院
+      body:
+          - 参与“智慧城市”项目开发
+          - Java

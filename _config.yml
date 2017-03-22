@@ -1,0 +1,4 @@
+exclude: [CNAME, LICENSE, README.md, release]
+permalink: /:categories/:title.html
+include: ['_pages']
+title: 

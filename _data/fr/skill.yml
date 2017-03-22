@@ -1,0 +1,20 @@
+title: Compétences Professionnelles
+desc: 
+items:
+    IT Compétences:
+      Systèm(Linux/Shell/Vim/Apache/Tomcat): 90
+      Programming(Java/C/Python): 70
+      Web Backend(J2EE/PHP/Jekyll): 80
+      Web Frontend(HTML/CSS/JavaScript): 90 
+      Design(Photoshop/Lightroom): 60
+      Math Computation(Matlab/Mathematica): 80
+    Anglais:
+      Compréhnsion Orale: 70
+      Production Orale: 60
+      Compréhnsion Ecrite: 80
+      Production Ecrite: 70
+    French:
+      Compréhnsion Orale: 80
+      Production Orale: 80
+      Compréhnsion Ecrite: 70
+      Production Ecrite: 70

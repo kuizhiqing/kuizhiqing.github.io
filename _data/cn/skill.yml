@@ -1,0 +1,20 @@
+title: 专业技能
+desc: 树叶有砖工，我有技能
+items:
+    IT技能:
+      系统相关(Linux/Shell/Vim/Apache/Tomcat): 90
+      编程开发(Java/C/Python): 70
+      网站后台(J2EE/PHP/Jekyll): 80
+      前端开发(HTML/CSS/JavaScript): 90 
+      设计制作(Photoshop/Lightroom): 60
+      数学计算(Matlab/Mathematica): 80
+    英语:
+      听: 70
+      说: 60
+      读: 80
+      写: 70
+    法语:
+      听: 80
+      说: 80
+      读: 70
+      写: 70

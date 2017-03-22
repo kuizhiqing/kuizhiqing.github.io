@@ -1,0 +1,20 @@
+title: Professional Skills
+desc: 
+items:
+    IT Skills:
+      System Maintenance(Linux/Shell/Vim/Apache/Tomcat): 90
+      Programming(Java/C/Python): 70
+      Web Backend(J2EE/PHP/Jekyll): 80
+      Web Frontend(HTML/CSS/JavaScript): 90 
+      Design(Photoshop/Lightroom): 60
+      Math Computation(Matlab/Mathematica): 80
+    English:
+      Listen: 70
+      Speak: 60
+      Read: 80
+      Write: 70
+    French:
+      Listen: 80
+      Speak: 80
+      Read: 70
+      Write: 70

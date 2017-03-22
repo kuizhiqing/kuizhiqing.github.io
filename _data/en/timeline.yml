@@ -1,0 +1,57 @@
+title: Professional Experience
+desc: I have a story...
+img: kui.jpg
+items:
+    - img: ecm.png
+      href: https://www.centrale-marseille.fr/
+      period: 2015.01—2018.02
+      title: Applied Mathematics | PhD 
+      desc: Ecole Centrale de Marseille
+      body: 
+          - Supported by China Scholarship Council 
+          - Research in Subdivision/Wavelets/Image Processing
+    - img: buaa.png
+      href: http://www.buaa.edu.cn/
+      period: 2008.09—2015.01
+      title:
+          - Computer Science | Master
+          - Mathematics | Bachelor
+      desc: Beihang University | Ecole Centrale de Pekin
+      body:
+          - 4 Undergraduate + 2.5 Graduate
+          - Assistant teacher in Analysis for 3 semesters
+          - Research in DTN 
+    - img: ecpkn.jpg
+      href: http://ecpkn.buaa.edu.cn/
+      period: 2008.09—2015.01
+      title: Engineer Diploma certified by CTI (France)
+      desc: Beihang University | Ecole Centrale de Pekin
+      body:
+          - Sino-French cooperation, Double diploma
+          - Teaching in French by professors from 5 Centrale France
+    - img: kuwo.jpg
+      href: http://kuwo.cn/
+      period: 2013.05—2015.01
+      title: Beijing KUWO Music Online Technologie Co.,Ltd. | Intern
+      desc: 
+          - Technical Manager of YONGLE tickets project
+          - Technical Manager of Live MUSIC Crowd funding project
+          - Technical Manager of SPRITE MUSIC project
+          - Member of Hennessy MUSIC project 
+      body: 
+    - img: dzc.png
+      href: "#@"
+      period: 2011.07—2011.09
+      title: Software development Internship
+      desc: Shanghai DZ Communication Technologie Co.,Ltd.
+      body:
+          - Develop a module for network software
+          - Python
+    - img: siat.jpg
+      href: "#@"
+      period: 2010.07—2010.09
+      title: Software development Internship
+      desc: Shenzhen Institutes of Advanced Technology.
+      body:
+          - Smart City project
+          - Java

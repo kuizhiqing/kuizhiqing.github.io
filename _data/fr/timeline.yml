@@ -1,0 +1,57 @@
+title: Expérience Professionnelle
+desc: 
+img: kui.jpg
+items:
+    - img: ecm.png
+      href: https://www.centrale-marseille.fr/
+      period: 2015.01—2018.02
+      title: Mathematiques Appliquées | Doctorant
+      desc: Ecole Centrale de Marseille
+      body: 
+          - Soutenu par China Scholarship Council 
+          - Recherche en Subdivision/Ondelette/Traitement d'image
+    - img: buaa.png
+      href: http://www.buaa.edu.cn/
+      period: 2008.09—2015.01
+      title:
+          - L'informatique | Master
+          - Mathématiques | Bachelor
+      desc: Beihang University | Ecole Centrale de Pekin
+      body:
+          - 3 ans cycle prépare + 3.5 ans cycle ingénieur 
+          - Professeur adjoint en Analyse pendant 3 semestres
+          - Recherche en DTN 
+    - img: ecpkn.jpg
+      href: http://ecpkn.buaa.edu.cn/
+      period: 2008.09—2015.01
+      title: Diplôme d'ingénieur certifié CTI (France)
+      desc: Beihang University | Ecole Centrale de Pekin
+      body:
+          - Coopération sino-française, Double diplôme
+          - Enseignement en français par des professeurs vient de Centrale France
+    - img: kuwo.jpg
+      href: http://kuwo.cn/
+      period: 2013.05—2015.01
+      title: Beijing KUWO Music Online Technologie Co.,Ltd. | Intern
+      desc: 
+          - Directeur technique du projet YONGLE tickets 
+          - Directeur technique du projet Live MUSIC Crowd funding 
+          - Directeur technique du projet SPRITE MUSIC 
+          - Membre du projet Hennessy MUSIC 
+      body: 
+    - img: dzc.png
+      href: "#@"
+      period: 2011.07—2011.09
+      title: Stage de développement logiciel
+      desc: Shanghai DZ Communication Technologie Co.,Ltd.
+      body:
+          - Développer un module pour les logiciels réseau
+          - Python
+    - img: siat.jpg
+      href: "#@"
+      period: 2010.07—2010.09
+      title: Stage de développement logiciel
+      desc: Shenzhen Institutes of Advanced Technology.
+      body:
+          - Diercteur du groupe du projet Smart City
+          - Java

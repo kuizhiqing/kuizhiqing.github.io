@@ -1,0 +1,15 @@
+title: 我的作品
+desc: 写得了情书，做得了网站
+items:
+    - title: 玩法旅行
+      desc: 玩法旅行公司官方网站
+      href: "http://wanfa-travel.com"
+      img: wanfa.png
+    - title: Eurasia Grill
+      desc: 马赛中餐馆网站
+      href: "http://eurasia-grill.com"
+      img: eurasia-logo.png
+    - title: 自娱自乐
+      desc: 《路小雨-不能说的秘密》
+      href: "https://www.youtube.com/watch?v=LBgj-IJlrK8"
+      img: piano.png
