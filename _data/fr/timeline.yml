@@ -1,42 +1,45 @@
-title: Expérience Professionnelle
+title: Expériences Professionnelles
 desc: 
 img: kui.jpg
 items:
     - img: ecm.png
       href: https://www.centrale-marseille.fr/
       period: 2015.01—2018.02
-      title: Mathematiques Appliquées | Doctorant
+      title: Mathematiques Appliquées<br> Doctorant
       desc: Ecole Centrale de Marseille
       body: 
           - Soutenu par China Scholarship Council 
-          - Recherche en Subdivision/Ondelette/Traitement d'image
+          - Recherche en Subdivision/Ondelette/
+          - Traitement d'image
     - img: buaa.png
       href: http://www.buaa.edu.cn/
       period: 2008.09—2015.01
       title:
-          - L'informatique | Master
+          - L'informatiques | Master
           - Mathématiques | Bachelor
-      desc: Beihang University | Ecole Centrale de Pekin
+      desc: Beihang University | Ecole Centrale de Pékin
       body:
-          - 3 ans cycle prépare + 3.5 ans cycle ingénieur 
+          - 3 ans cycle préparatoire + 3.5 ans cycle ingénieur 
           - Professeur adjoint en Analyse pendant 3 semestres
-          - Recherche en DTN 
+          - Recherche en Delay Tolerant Networking
     - img: ecpkn.jpg
       href: http://ecpkn.buaa.edu.cn/
       period: 2008.09—2015.01
-      title: Diplôme d'ingénieur certifié CTI (France)
-      desc: Beihang University | Ecole Centrale de Pekin
+      title: Diplôme d'ingénieur certifié par CTI 
+      desc:
+          - (Commission des Titres d'Ingénieur, France)
+          - Beihang University | Ecole Centrale de Pékin
       body:
           - Coopération sino-française, Double diplôme
-          - Enseignement en français par des professeurs vient de Centrale France
+          - Enseignement en français par professeur français de Centrale Paris/Lyon/Lille/Marseille/Nante
     - img: kuwo.jpg
       href: http://kuwo.cn/
       period: 2013.05—2015.01
-      title: Beijing KUWO Music Online Technologie Co.,Ltd. | Intern
+      title: Beijing KUWO Music Online Technologie Co.,Ltd. | Stage
       desc: 
-          - Directeur technique du projet YONGLE tickets 
-          - Directeur technique du projet Live MUSIC Crowd funding 
-          - Directeur technique du projet SPRITE MUSIC 
+          - Directeur technique du projet<br> &nbsp; &nbsp; YONGLE Tickets 
+          - Directeur technique du projet<br> &nbsp; &nbsp; Live MUSIC Crowd Funding 
+          - Directeur technique du projet<br> &nbsp; &nbsp; SPRITE MUSIC 
           - Membre du projet Hennessy MUSIC 
       body: 
     - img: dzc.png
@@ -46,12 +49,12 @@ items:
       desc: Shanghai DZ Communication Technologie Co.,Ltd.
       body:
           - Développer un module pour les logiciels réseau
-          - Python
+          - "Langage de programmation : Python"
     - img: siat.jpg
-      href: "#@"
+      href: "http://english.siat.cas.cn/"
       period: 2010.07—2010.09
       title: Stage de développement logiciel
       desc: Shenzhen Institutes of Advanced Technology.
       body:
           - Diercteur du groupe du projet Smart City
-          - Java
+          - "Langage de programmation : Java"
